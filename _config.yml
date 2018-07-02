@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Christopher Nguyen
-email: cnguyen7@hawaii.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Christopher Nguyen. UH Manoa '18. NASA Space Grant Fellow. Former Software Developer Intern at IBM and Oceanit. 
+title: Frank Pang #Christopher Nguyen
+email: fpang@usc.edu #cnguyen7@hawaii.edu
+description: > # this means to ignore newlines until "baseurl:" # Christopher Nguyen. UH Manoa '18. NASA Space Grant Fellow. Former Software Developer Intern at IBM and Oceanit. 
+  Frank Pang. University of Southern California '21. Student Researcher at University of Hawaii at Manoa. Student Intern at Shifted Energy. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chrisnguyenhi.github.io" 
-github_username: chrisnguyenhi
-git_repo: chrisnguyenhi
-github: https://github.com/chrisnguyenhi
-linkedin: https://linkedin.com/in/chrisnguyenhi
+url: "https://fpang0502.github.io" #"https://chrisnguyenhi.github.io" 
+github_username: fpang0502 #chrisnguyenhi
+git_repo: fpang0502 #chrisnguyenhi
+github: https://github.com/fpang0502 #https://github.com/chrisnguyenhi
+linkedin: https://github.com/fpang-hi #https://linkedin.com/in/chrisnguyenhi
 projects: /projects
-mail: mailto:cnguyen7@hawaii.edu
+mail: mailto:fpang@usc.edu #mailto:cnguyen7@hawaii.edu
 
 include: [_data]
 
@@ -49,9 +49,9 @@ exclude:
 
 
 social:
-  name: Christopher Nguyen
+  name: Frank Pang #Christopher Nguyen
   links:
-    - https://github.com/chrisnguyenhi
+    - https://github.com/fpang0502 #https://github.com/chrisnguyenhi
 
 logo: /images/h.png
 google_analytics: UA-70118632-2

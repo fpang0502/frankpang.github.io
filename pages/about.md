@@ -1,11 +1,13 @@
 ---
 layout: about
 title: About Me
-description: "Computer Science student, NASA Space Grant Fellow, and former IBM Software Developer Intern with the goal of using technology to create value."
+description: "Computer Science student at the University of Southern California, Student Researcher at University of Hawaii at Manoa, Student Intern at Shifted Energy"
 permalink: /about/
 ---
 
-<img class="ui fluid centered large image" src="../images/chris.png">
+<img class="ui fluid centered large image" src="../images/h.png">
+
+Hi there! My name is Frank, I am a sophomore at the University of Southern California majoring in Computer Science.
 
 Hi I'm Chris! I am senior at the University of Hawaii majoring in Computer Science with a minor in Business.
 For the 2017 - 2018 school year, I'll be doing a research project under a NASA Space Grant Fellowship and an internship under Oceanit, a scientific innovation and reseearch company located in Honolulu, Hawaii. After graduation, I hope to become a Technical Program Manager or a Software Developer.
