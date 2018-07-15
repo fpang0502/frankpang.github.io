@@ -17,20 +17,20 @@ AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Comput
 
 As a mentor, I was tasked with teaching two high school students how to code in C++ and use the OpenCV library for this project. For the programming side, I constructed the basic framework to track motion using the concept of [image differencing](https://en.wikipedia.org/wiki/Image_differencing) and used a Windows grid display app for validation during data collection.
 
-To achieve real-time motion detection, AIRIS uses the concept of image differencing in which the current frame is compared to the previous frame. If the current frame is different from the previous frame then there is indeed movement. 
+To achieve real-time motion detection, AIRIS uses the concept of image differencing in which the current frame is compared to the previous frame. If the current frame is different from the previous frame then there is indeed movement.
 <img src="../images/airispic.png">
 
-This project won Best of Systems Software at the 2016 Honolulu District Science and Engineering Fair and was nomimated to attend the Intel Science and Engineering Fair. After the 2016 Honolulu District Science and Engineering Fair, I worked with my mentees to apply this image differencing algorithm to leukemia detection for the 2016 Hawaii State Science and Engineering Fair-- which resulted in this project receiving the University of Hawaii at Manoa Department of Information and Computer Sciences Award and 3rd Prize in Systems Software.
+This project won Best of Systems Software at the 2016 Honolulu District Science and Engineering Fair and was nominated to attend the Intel Science and Engineering Fair. After the 2016 Honolulu District Science and Engineering Fair, I worked with my mentees to apply this image differencing algorithm to leukemia detection for the 2016 Hawaii State Science and Engineering Fair-- which resulted in this project receiving the University of Hawaii at Manoa Department of Information and Computer Sciences Award and 3rd Prize in Systems Software.
 
-This project was my very first tiem coding and it  helped me learn a lot about C++ and the topic of Computer Vision. In addition to being mentored, it was a great experience to build my interpersonal skills when working in a team. As both my partner and I had no prior programming knowledge, it was very important that we were patient and worked well with one another. Learning well enough to teach others has always been a "mantra" of mine and by doing so, I became a better programmer. I definitely believe that high school students are capable of learning Computer Science. 
+This project was my very first time coding and it  helped me learn a lot about C++ and the topic of Computer Vision. In addition to being mentored, it was a great experience to build my interpersonal skills when working in a team. As both my partner and I had no prior programming knowledge, it was very important that we were patient and worked well with one another. Learning well enough to teach others has always been a "mantra" of mine and by doing so, I became a better programmer. I definitely believe that high school students are capable of learning Computer Science. 
 
 <br>
 <img class class="ui medium left floated rounded image" src="../images/airisgroup.jpg">
 <br>
 <br>
 
-This project and my partner and I were also featured on Hawaii News Now on Sunrise for the [March 11](http://www.hawaiinewsnow.com/story/31448254/students-discuss-their-entries-in-the-hawaii-state-science-and-engineer-fair) airing and the [March 22](http://www.hawaiinewsnow.com/story/31539501/interview-hawaii-state-science-engineering-fair) airing. 
+This project and my partner and I were also featured on Hawaii News Now on Sunrise for the [March 11](http://www.hawaiinewsnow.com/story/31448254/students-discuss-their-entries-in-the-hawaii-state-science-and-engineer-fair) airing and the [March 22](http://www.hawaiinewsnow.com/story/31539501/interview-hawaii-state-science-engineering-fair) airing.
 
-If you want to learn more about this project, please check out this Github link below! 
+If you want to learn more about this project, please check out this Github link below!
 
 Source: <a href="https://github.com/fpang0502/AIRIS"><i class="large github icon"></i>AIRIS</a>
