@@ -6,12 +6,11 @@ title: Shifted Energy
 permalink: projects/shifted_energy
 date: 2015
 labels:
-  - C++
-  - OpenCV
-  - Computer Vision
+  - Python
+  - Automate Green API
 summary: A console application that uses OpenCV to track motion in real-time. This project was done for the 2016 Honolulu District and Hawaii State Science and Engineering Fair where I worked with a classmate and STEM Resource Mentor.
 ---
-<img class class="ui medium right floated rounded image" src="../images/airisdot.png">
+<img class class="ui medium right floated rounded image" src="../images/shifted.png">
 
 AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Computer Vision library to track motion in real time through a live-video feed from a camera or a normal video file. This project was a collaborative effort with a classmate of mine and with a STEM Resource Mentor for the Hawaii State Deparment of Education's [Kaimuki-McKinley-Roosevelt Complex Area](http://www.hawaiipublicschools.org/ConnectWithUs/Organization/OfficesAndBranches/Pages/Kaimuki-McKinley-Roosevelt.aspx).
 
