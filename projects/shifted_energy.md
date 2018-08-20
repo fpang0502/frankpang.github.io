@@ -2,17 +2,24 @@
 layout: project
 type: project
 image: images/shifted.png
-title: Shifted Energy
+title: AllData
 permalink: projects/shifted_energy
-date: 2015
+date: 2018
 labels:
   - Python
   - Automate Green API
-summary: A console application that uses OpenCV to track motion in real-time. This project was done for the 2016 Honolulu District and Hawaii State Science and Engineering Fair where I worked with a classmate and STEM Resource Mentor.
+summary: A data processing tool written in Python to parse data taken recieved from Automate Green's API. This project was done during Summer 2018 for an internship with Shifted Energy where I worked with Olin Lagon, the co-founder and current CTO of Shifted Energy.
+
 ---
+<img class class="ui medium right floated rounded image" src="../images/htdc.png">
+
+I had the opportunity to intern with Shifted Energy through [Hawaii Technology Development Corporation] (https://www.htdc.org/about/) (HTDC), a state agency that is in charge of managing and supervising Hawaii's growing technology industry through providing services for startups. Through HTDC, I learned a lot about Hawaii's growing efforts in technology and more about the entrepreneur mindset.
+
 <img class class="ui medium right floated rounded image" src="../images/shifted.png">
 
-AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Computer Vision library to track motion in real time through a live-video feed from a camera or a normal video file. This project was a collaborative effort with a classmate of mine and with a STEM Resource Mentor for the Hawaii State Deparment of Education's [Kaimuki-McKinley-Roosevelt Complex Area](http://www.hawaiipublicschools.org/ConnectWithUs/Organization/OfficesAndBranches/Pages/Kaimuki-McKinley-Roosevelt.aspx).
+
+[Shifted Energy] (https://www.shiftedenergy.com/) is a startup in Hawaii that builds controllers and develops software to retrofit electric resistance water heaters into "massively scalable, cost-effective, real-time demand response assets." With the use of machine learning, they are able to analyze the usage patterns of water heaters and provide important grid services such as fast frequency response, capacity load shifting, and emergence demand response. Additionally, they are able to do this without installing the control systems on the water heater.
+
 
 Our mentor taught both of us how to code in C++ and helped us understand the OpenCV library for this project. For the programming side, he helped us construct the basic framework to track motion using the concept of [image differencing](https://en.wikipedia.org/wiki/Image_differencing) and we then used a Windows grid display app for validation during data collection.
 
