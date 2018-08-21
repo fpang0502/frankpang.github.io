@@ -36,4 +36,4 @@ This process of exporting files was then automated by reading a textfile for eac
 
 If you want to learn more about this project, please check out this Github link below!
 
-Source: <a href="https://github.com/fpang0502/shifted_parser"><i class="large github icon"></i>ALLDATA</a>
+Source: <a href="https://github.com/fpang0502/shifted_parser"><i class="large github icon"></i>AllData</a>
