@@ -25,11 +25,7 @@ My role at the company was to automate the JSON data collection received by the 
 
 
 The script I wrote took into account the multiple grid services that Shifted Energy provides: fast frequency response, status updates, and relays. JSON data would vary from each specific service and would appear in a single JSON file. Through parsing them for these specific cases, I was able to generate certain files:  
-A master file containing the updates, <img class class="ui medium right floated rounded image" src="../images/master.png"> <br>
-
-A relay file that contained relay and ffr events, <img class class="ui medium right floated rounded image" src="../images/relay.png"> <br>
-
-and multiple files that covers data from each day in a tab-delimited 15-minute increment format. <img class class="ui medium right floated rounded image" src="../images/increment.png"> <br>
+A master file containing the updates, a relay file that contained relay and ffr events, and multiple files that covers data from each day in a tab-delimited 15-minute increment format. <img class class="ui medium right floated rounded image" src="../images/master.png"> <br><img class class="ui medium right floated rounded image" src="../images/relay.png"> <br> <img class class="ui medium right floated rounded image" src="../images/increment.png"> <br>
 
 This process of exporting files was then automated by reading a textfile for each device, timezone, start date, and the date it was last updated so that it could be scaled for numerous devices. 
 
