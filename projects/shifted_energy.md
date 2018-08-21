@@ -24,7 +24,14 @@ I had the opportunity to intern with Shifted Energy through [Hawaii Technology D
 My role at the company was to automate the JSON data collection received by the IoT devices managed by Shifted Energy through the Automate Green API. By doing so, the information could then be sent to Shifted Energy's webserver for use by grid service providers to make important grid decisions. The existing code written by Olin was in C# and could not be scaled for thousands of devices, so by using Python in the data processing tool that I created, the current script could do the job much faster.
 
 
-The script I wrote took into account the multiple grid services that Shifted Energy provides: fast frequency response, status updates, and relays. JSON data would vary from each specific service and would appear in a single JSON file. Through parsing them for these specific cases, I was able to generate a master file containing the updates, a relay file that contained relay and ffr events, and multiple files that covers data from each day in a tab-delimited 15-minute increment format. This process of exporting files was then automated by reading a textfile for each device, timezone, start date, and the date it was last updated so that it could be scaled for numerous devices. 
+The script I wrote took into account the multiple grid services that Shifted Energy provides: fast frequency response, status updates, and relays. JSON data would vary from each specific service and would appear in a single JSON file. Through parsing them for these specific cases, I was able to generate certain files:  
+A master file containing the updates, <img class class="ui medium right floated rounded image" src="../images/master.png">
+
+A relay file that contained relay and ffr events, <img class class="ui medium right floated rounded image" src="../images/relay.png"> 
+
+and multiple files that covers data from each day in a tab-delimited 15-minute increment format. <img class class="ui medium right floated rounded image" src="../images/increment.png">
+
+This process of exporting files was then automated by reading a textfile for each device, timezone, start date, and the date it was last updated so that it could be scaled for numerous devices. 
 
 
 If you want to learn more about this project, please check out this Github link below!
