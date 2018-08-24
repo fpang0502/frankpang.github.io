@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/shifted.png
-title: AllData
-permalink: projects/shifted_energy
+image: images/uhmanoa.png
+title: PDC Parser
+permalink: projects/pdc_parser
 date: 2018
 labels:
   - Python
-  - Automate Green API
-  - Pytz
-  - Datetime
-summary: A data processing tool written in Python to parse data taken recieved from Automate Green's API. This project was done during Summer 2018 for an internship with Shifted Energy where I worked with Olin Lagon, the co-founder and current CTO of Shifted Energy.
+  - Stanford Parser
+  - Regular Expressions
+  - Natural Language Processing
+summary: For the summer of 2018, I did research on natural language processing with Dr. David Chin from the University of Hawaii at Manoa. On the request of the Pacific Disaster center (PDC), we worked to implement a Natural Language Processing solution to better summarize information from unstandardized disaster data from events such as volcanoes, tsunamis, and cyclones. By using auto-correct APIs and the Stanford Parser, we generated XML files through extracting specific data from text files using regular expressions and word dependency relationships.
 
 ---
 <img class class="ui medium right floated rounded image" src="../images/htdc.png">
