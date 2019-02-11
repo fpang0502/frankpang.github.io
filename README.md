@@ -1,4 +1,4 @@
-# chrisnguyenhi.github.io
+# fpang0502.github.io
 
-Christopher Nguyen's technical portfolio site.
+Frank Pang's technical portfolio site.
 
