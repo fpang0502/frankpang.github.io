@@ -4,7 +4,7 @@ type: project
 image: images/hamm/hamm_logo.png
 title: Hamm
 permalink: projects/hamm
-date: Summer 2018
+date: 2018
 labels:
   - React Native
   - Redux
