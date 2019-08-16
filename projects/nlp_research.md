@@ -4,7 +4,7 @@ type: project
 image: images/nlp_research/uhmanoa_logo.png
 title: PDC Parser
 permalink: projects/pdc_parser
-date: Summer 2018
+date: 2018
 labels:
   - Python
   - Stanford Parser

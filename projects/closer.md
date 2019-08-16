@@ -4,7 +4,7 @@ type: project
 image: images/closer/closer_logo.png
 title: Closer
 permalink: projects/closer
-date: Spring 2019
+date: 2019
 labels:
   - PHP
   - JavaScript

@@ -4,7 +4,7 @@ type: project
 image: images/rangefinder/rangefinder_logo.png
 title: Rangefinder
 permalink: projects/rangefinder
-date: Spring 2018
+date: 2018
 labels:
   - C
   - Arduino

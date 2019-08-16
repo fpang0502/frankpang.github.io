@@ -4,7 +4,7 @@ type: project
 image: images/shifted_energy/shifted_logo.png
 title: AllData
 permalink: projects/shifted_energy
-date: Summer 2018
+date: 2018
 labels:
   - Python
   - Automate Green API

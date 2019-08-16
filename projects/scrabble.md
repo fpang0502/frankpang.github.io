@@ -4,7 +4,7 @@ type: project
 image: images/scrabble/scrabble_logo.png
 title: Scrabble
 permalink: projects/scrabble
-date: Fall 2018
+date: 2018
 labels:
   - C++
   - Tries Data Structure

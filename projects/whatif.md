@@ -4,7 +4,7 @@ type: project
 image: images/whatif/whatif_logo.png
 title: What If
 permalink: projects/whatif
-date: Spring 2019
+date: 2019
 labels:
   - Python
   - Webscrape

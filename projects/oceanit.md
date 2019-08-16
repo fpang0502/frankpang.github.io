@@ -4,7 +4,7 @@ type: project
 image: images/oceanit/oceanit_logo.png
 title: Oceanit
 permalink: projects/oceanit
-date: Summer 2019
+date: 2019
 labels:
   - iOS
   - Swift
