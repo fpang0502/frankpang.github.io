@@ -16,7 +16,7 @@
 title: Frank Pang 
 email: fpang@usc.edu 
 description: >
-  Frank Pang. University of Southern California '21. Student Researcher at University of Hawaii at Manoa. Student Intern at Shifted Energy. 
+  Frank Pang. University of Southern California '21. 
 baseurl: "" 
 url: "https://fpang0502.github.io" 
 github_username: fpang0502 
@@ -53,5 +53,5 @@ social:
   links:
     - https://github.com/fpang0502 
 
-logo: /images/h.png
+logo: /images/profile.png
 google_analytics: UA-70118632-2
