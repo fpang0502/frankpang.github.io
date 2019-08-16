@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/uhmanoa.png
+image: images/nlp_research/uhmanoa_logo.png
 title: PDC Parser
 permalink: projects/pdc_parser
-date: 2018
+date: Summer 2018
 labels:
   - Python
   - Stanford Parser
@@ -14,7 +14,7 @@ labels:
 summary: For the summer of 2018, I did research on natural language processing with Dr. David Chin from the University of Hawaii at Manoa and Matthew Lee from the University of Rochester. On the request of the Pacific Disaster center (PDC), we worked to implement a Natural Language Processing solution to better summarize information from unstandardized disaster data from events such as volcanoes, tsunamis, and cyclones.
 
 ---
-<img class class="ui medium right floated rounded image" src="../images/uhmanoa.png">
+<img class class="ui medium right floated rounded image" src="../images/nlp_research/uhmanoa_logo.png">
 
 I began working with Dr. Chin and Matthew since I was interested in expanding my knowledge of the applications of computer science. After emailing back and forth, I finally met with Dr. Chin and Matthew to discuss the project we would be doing with the PDC. 
 
