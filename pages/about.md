@@ -5,7 +5,7 @@ description: "Computer Science student at the University of Southern California 
 permalink: /about/
 ---
 
-<img class="ui fluid centered large image" src="../images/h.png">
+<img class="ui fluid centered large image" src="../images/profile.png">
 
 <!-- Hi there! I'm Frank. I am a sophomore at the University of Southern California majoring in Computer Science. For the Summer of 2018, I'm currently researching with a professor at the University of Hawaii at Manoa on the topic of Natural Language Processing and I'm working at Shifted Energy as a student intern dealing with hourly data processing. I hope to attain an internship for Summer 2019, or a co-op for the 2018 - 2019 school year that deals with software or app development. I look forward to all that I'm about to learn in the coming years and hope that I grow both in character and skillset.
 
