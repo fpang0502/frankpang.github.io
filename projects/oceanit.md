@@ -6,17 +6,10 @@ title: Oceanit
 permalink: projects/oceanit
 date: 2019
 labels:
-  - iOS
-  - Swift
-  - XCode
-  - WordPress
-  - AWS EC2
-  - PHP
-  - HTML/CSS
-  - JavaScript
-  - Python
-  - Webscrape
-  - Selenium
+  - Commercialization
+  - Design Thinking
+  - Service
+  - Leadership
 summary: Designed, developed, and published iOS application for customized aviation masks for military pilots as a Commercialization Intern with Oceanit. Managed and optimized multisite structure hosted on WordPress and Amazon Web Services.
 ---
 <img class class="ui medium right floated rounded image" src="../images/oceanit/oceanit_logo.png">

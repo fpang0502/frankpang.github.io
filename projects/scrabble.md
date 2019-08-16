@@ -7,6 +7,7 @@ permalink: projects/scrabble
 date: 2018
 labels:
   - C++
+  - VirtualBox
   - Tries Data Structure
   - Artificial Intelligence
 summary: A command line interface for a multi-player scrabble game with two artificial intelligence players with point and word length heuristics.

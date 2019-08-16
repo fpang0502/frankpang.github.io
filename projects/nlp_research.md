@@ -11,7 +11,7 @@ labels:
   - Regular Expressions
   - Natural Language Processing
 
-summary: For the summer of 2018, I did research on natural language processing with Dr. David Chin from the University of Hawaii at Manoa and Matthew Lee from the University of Rochester. On the request of the Pacific Disaster center (PDC), we worked to implement a Natural Language Processing solution to better summarize information from unstandardized disaster data from events such as volcanoes, tsunamis, and cyclones.
+summary: Research on NLP with Dr. David Chin from the UH Manoa and Matthew Lee from the University of Rochester. Implemented an NLP solution for the Pacific Disaster Center to better summarize information from unstandardized disaster data from events such as volcanoes, tsunamis, and cyclones.
 
 ---
 <img class class="ui medium right floated rounded image" src="../images/nlp_research/uhmanoa_logo.png">

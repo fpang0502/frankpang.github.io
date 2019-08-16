@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rangefinder/rangefinder_logo.png
+image: images/rangefinder/rangefinder_logo.jpeg
 title: Rangefinder
 permalink: projects/rangefinder
 date: 2018

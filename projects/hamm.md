@@ -8,6 +8,7 @@ date: 2018
 labels:
   - React Native
   - Redux
+  - Google Firebase
 summary: A React Native mobile expense tracker built using Redux.
 ---
 <img class class="ui medium right floated rounded image" src="../images/airisdot.png">

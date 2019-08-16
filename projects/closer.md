@@ -14,7 +14,7 @@ labels:
   - jQuery
   - Bootstrap
   - FFMPEG
-summary: A web application for families and friends 
+summary: Full-Stack web application for families and friends to share memories with one another in one place. A rudimentary version of Google Photos.
 ---
 <img class class="ui medium right floated rounded image" src="../images/closer/closer_logo.png">
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/whatif/whatif_logo.png
+image: images/whatif/whatif_logo.JPG
 title: What If
 permalink: projects/whatif
 date: 2019
@@ -11,9 +11,9 @@ labels:
   - Machine Learning
   - Neural Networks
   - React
-summary: Stanford TreeHacks web application. "What If" the neighborhood you knew so well was wrecked by a natural disaster? With this ML model and satellite imagery, you can see what this house would look like using this web platform.
+summary: Stanford TreeHacks web application. What if the neighborhood you knew so well was wrecked by the looming effects of climate change? With this ML model and satellite imagery, you can see what this house would possibly look like after a natural disaster.
 ---
-<img class="ui medium right floated rounded image" src="../images/whatif/whatif_logo.png">
+<img class="ui medium right floated rounded image" src="../images/whatif/whatif_logo.JPG">
 
 <img src="../images/whatif/whatif_logo.png">
 

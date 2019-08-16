@@ -9,7 +9,7 @@ labels:
   - C++
   - OpenCV
   - Computer Vision
-summary: A console application that uses OpenCV to track motion in real-time. This project was done for the 2016 Honolulu District and Hawaii State Science and Engineering Fair where I worked with a classmate and STEM Resource Mentor.
+summary: OpenCV Console application to track motion in real-time. Best in Systems Software at the 2016 Honolulu District Science Fair. Third Prize at the Hawaii State Science and Engineering Fair. Department of Computer Sciences Award Recipient.
 ---
 <img class class="ui medium right floated rounded image" src="../images/airis/airis_dot.png">
 
