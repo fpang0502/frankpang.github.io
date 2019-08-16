@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/closer/closer_logo.png
 title: Closer
-permalink: projects/airis
+permalink: projects/closer
 date: Spring 2019
 labels:
   - PHP
