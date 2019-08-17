@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hamm/hamm_logo.png
+image: images/hamm/hamm_logo.jpg
 title: Hamm
 permalink: projects/hamm
 date: 2018
