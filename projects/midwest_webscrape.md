@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/midwest_webscrape/midwest_webscrape_logo.png
-title: Midwest Webscrape
+title: Midwest Webscrape | Oceanit
 permalink: projects/midwest_webscrape
 date: 2019
 labels:
