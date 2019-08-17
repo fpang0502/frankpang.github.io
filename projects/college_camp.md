@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/college_camp/college_camp_logo.png
+image: images/college_camp/college_camp_logo.jpg
 title: YMCA College Camp
 permalink: projects/college_camp
 date: 2019
