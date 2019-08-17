@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/oceanit/oceanit_logo.png
-title: Oceanit
+image: images/oceanit/oceanit_logo.jpg
+title: School Supply Drive | Oceanit
 permalink: projects/oceanit
 date: 2019
 labels:
@@ -12,7 +12,7 @@ labels:
   - Leadership
 summary: Designed, developed, and published iOS application for customized aviation masks for military pilots as a Commercialization Intern with Oceanit. Managed and optimized multisite structure hosted on WordPress and Amazon Web Services.
 ---
-<img class class="ui medium right floated rounded image" src="../images/oceanit/oceanit_logo.png">
+<img class class="ui medium right floated rounded image" src="../images/oceanit/oceanit_logo.jpg">
 
 <img src="../images/oceanit/oceanit_bake_sale.png">
 

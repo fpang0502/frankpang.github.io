@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/wordpress_multisite/wordpress_multisite_logo.png
-title: WordPress Multisite
-permalink: projects/facefit
+title: WordPress Multisite | Oceanit
+permalink: projects/wordpress_multisite
 date: 2019
 labels:
   - WordPress
@@ -14,7 +14,7 @@ labels:
   - HTML
   - CSS
   - JavaScript
-summary: Designed, developed, and published iOS application for customized aviation masks for military pilots as a Commercialization Intern with Oceanit.
+summary: Managed and created content for Oceanit's product multisite. Recovered AWS EC2 keyfiles, created and automated backups for multisite structure, and installed Let's Encrypt SSL certificates.
 ---
 <img class class="ui medium right floated rounded image" src="../images/oceanit/oceanit_logo.png">
 

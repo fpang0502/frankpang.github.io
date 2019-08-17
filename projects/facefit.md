@@ -2,12 +2,13 @@
 layout: project
 type: project
 image: images/facefit/facefit_logo.png
-title: FaceFit
+title: FaceFit | Oceanit
 permalink: projects/facefit
 date: 2019
 labels:
   - iOS
   - Swift
+  - Sketch
   - XCode
   - Google Firebase
   - TrueDepth Camera

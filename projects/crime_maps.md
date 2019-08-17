@@ -14,7 +14,8 @@ labels:
   - JavaScript
   - jQuery/ajax
   - Bootstrap
-  - Google Maps/Markers/Heatmap/Places API
+  - Google HeatMap/Maps API
+  - Google Markers/Places API
 summary: A web application for multiple users to visualize crime data within Los Angeles. Users can join the same "room" and filter crime results to share with one another in real-time.
 ---
 <img class class="ui medium right floated rounded image" src="../images/crime_maps/crimemaps_logo.png">
