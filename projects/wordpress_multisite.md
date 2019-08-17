@@ -44,6 +44,17 @@ These key files are essential for accessing the server, and they're only generat
 
 <h2>Installing/Automating SSL Certificates</h2>
 
+The next step in improving SEO was to figure out how to install SSL certificates so all the websites would be covered with HTTPS. I talked to multiple SSL providers and all of them said that I would need to cover both non-www and www domains. So for an example, if I wanted to cover one site called dragxsurfaces.com, I would need to cover the following:
+
+<ul>
+	<li>www.dragxsurfaces.com</li>
+	<li>dragxsurfaces.com</li>
+	<li>www.dragxsurfaces.oceanitlabs.com</li>
+	<li>dragxsurfaces.oceanitlabs.com</li>
+</ul>
+
+With up to 20 multi-sites we needed to cover, that would amount to 80 domains every year, costing Oceanit under $1000/year. This seemed super unreasonable to me, so I kept looking. I ended up stumbling upon Let's Encrypt, an organization that provides free 90-day SSL certificates for websites. At first, it seemed like this wouldn't work out, since we weren't covered under the list of hosting providers Let's Encrypt served. However, since our AWS EC2 instance was created by Bitnami, we could get SSL for free! I followed this [bncert tutorial](https://docs.bitnami.com/aws/how-to/understand-bncert/), and had SSL installed and automated with a cronjob in no time.
+
 Their websites are all mapped from a base domain using [WordPress MU Domain Mapping Plugin](https://wordpress.org/plugins/wordpress-mu-domain-mapping/). So when a user query's a domain name such as [supercoolvest.com](https://supercoolvest.com), the plugin redirects the subdomain content of [supercoolvest.oceanitlabs.com](https://supercoolvest.oceanitlabs.com) and the website is the same.
 
 <h2>Supercoolvest and iBeach Websites</h2>
