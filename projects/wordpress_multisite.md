@@ -53,15 +53,18 @@ The next step in improving SEO was to figure out how to install SSL certificates
 	<li>dragxsurfaces.oceanitlabs.com</li>
 </ul>
 
-With up to 20 multi-sites we needed to cover, that would amount to 80 domains every year, costing Oceanit under $1000/year. This seemed super unreasonable to me, so I kept looking. I ended up stumbling upon Let's Encrypt, an organization that provides free 90-day SSL certificates for websites. At first, it seemed like this wouldn't work out, since we weren't covered under the list of hosting providers Let's Encrypt served. However, since our AWS EC2 instance was created by Bitnami, we could get SSL for free! I followed this [bncert tutorial](https://docs.bitnami.com/aws/how-to/understand-bncert/), and had SSL installed and automated with a cronjob in no time.
+With up to 20 multi-sites we needed to cover, that would amount to 80 domains every year, costing Oceanit under $1000/year. This seemed super unreasonable to me, so I kept looking. I ended up stumbling upon Let's Encrypt, an organization that provides free 90-day SSL certificates for websites. At first, it seemed like this wouldn't work out, since we weren't covered under the list of hosting providers Let's Encrypt served. However, since our AWS EC2 instance was created by Bitnami, we could get SSL for free! I followed this [bncert tutorial](https://docs.bitnami.com/aws/how-to/understand-bncert/), and had SSL installed with renewals automated with a cronjob in no time. You can find out more about the actual process [here](../images/wordpress_multisite/SSL_tutorial.pdf).
 
-Their websites are all mapped from a base domain using [WordPress MU Domain Mapping Plugin](https://wordpress.org/plugins/wordpress-mu-domain-mapping/). So when a user query's a domain name such as [supercoolvest.com](https://supercoolvest.com), the plugin redirects the subdomain content of [supercoolvest.oceanitlabs.com](https://supercoolvest.oceanitlabs.com) and the website is the same.
+Their websites are all mapped from a base domain using [WordPress MU Domain Mapping Plugin](https://wordpress.org/plugins/wordpress-mu-domain-mapping/). So when a user query's a domain name such as [supercoolvest.com](https://dragxsurfaces.com), the plugin redirects the subdomain content of [supercoolvest.oceanitlabs.com](https://dragxsurfaces.oceanitlabs.com) and the website is the same.
 
 <h2>Supercoolvest and iBeach Websites</h2>
 
-<img src="../images/oceanit/oceanit_bake_sale.png">
+In addition to making these optimizations, I also created website content for their multisite on WordPress. Two of the products/services that I was mainly involved with were [Supercoolvest](https://supercoolvest.com), and [iBeach](https://myibeach.com). Most of the websites were created using the WordPress PageBuilder but I also created a custom timelapse feature for iBeach using [FFMPEG]() and a dual rangeslider [iOnSlider](). With it, you can view the thousands of pictures taken from a Raspberry Pi 3 and visualize how the beaches change over time. These timelapses are auto-generated per month using python and cronjobs. Along with generating content, I was involved with getting the domain name, registering it through [NameCheap]() (a domain service provider), routing the DNS, and redirecting them to our multisite. 
 
-<br>
-<img class class="ui medium left floated rounded image" src="../images/oceanit/oceanit_school_supply_drive.jpg">
-<br>
-<br>
+<h2>More About My Internship</h2>
+<span>&#8226;</span><a href="https://fpang0502.github.io/projects/facefit">FaceFit</a>
+
+<span>&#8226;</span><a href="https://fpang0502.github.io/projects/midwest_webscrape">Midwest Webscrape</a>
+
+<span>&#8226;</span><a href="https://fpang0502.github.io/projects/school_supply_drive">School Supply Drive</a>
+
