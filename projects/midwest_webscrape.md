@@ -48,6 +48,6 @@ A snippet of the final result of what the CSV file looks like is below. I extrac
 <h2>More About My Internship</h2>
 <span>&#8226;</span><a href="https://fpang0502.github.io/projects/facefit">FaceFit</a>
 
-<span>&#8226;</span><a href="https://fpang0502.github.io/projects/midwest_webscrape">Midwest Webscrape</a>
+<span>&#8226;</span><a href="https://fpang0502.github.io/projects/wordpress_multisite">WordPress Multisites</a>
 
 <span>&#8226;</span><a href="https://fpang0502.github.io/projects/school_supply_drive">School Supply Drive</a>
