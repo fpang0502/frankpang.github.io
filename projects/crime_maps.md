@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/crime_maps/crime_maps_logo.png
 title: CrimeMaps
-permalink: projects/crime_maps
+permalink: projects/in-progress
 date: 2019
 labels:
   - Java

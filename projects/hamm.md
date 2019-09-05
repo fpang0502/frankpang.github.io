@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: in-progress
 type: project
 image: images/hamm/hamm_logo.jpg
 title: Hamm

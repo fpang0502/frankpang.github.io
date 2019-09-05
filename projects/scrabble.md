@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: in-progress
 type: project
 image: images/scrabble/scrabble_logo.png
 title: Scrabble

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: in-progress
 type: project
 image: images/rangefinder/rangefinder_logo.jpeg
 title: Rangefinder

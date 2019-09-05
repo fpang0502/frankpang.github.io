@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: in-progress
 type: project
 image: images/oceanit/oceanit_logo.jpg
 title: School Supply Drive | Oceanit

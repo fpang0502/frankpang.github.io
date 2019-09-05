@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: in-progress
 type: project
 image: images/whatif/whatif_logo.JPG
 title: What If

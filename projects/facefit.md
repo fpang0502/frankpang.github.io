@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: in-progress
 type: project
 image: images/facefit/facefit_logo.png
 title: FaceFit | Oceanit
